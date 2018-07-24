@@ -1,0 +1,52 @@
+
+body			{ background-color: white; }
+
+thead, tbody, tfoot	{ border: 3px solid black;
+				  border-collapse: collapse; }
+
+tfoot th		{ width:10px;
+				  height: 150px; }				  
+					  
+table			{ width: 800px;
+				  position: relative;
+				  left: 10px;
+				  border: 1px solid black;
+				  border-collapse: collapse;
+				  text-align: center;
+				  table-layout: fixed;
+				  background-attachment: fixed; }
+
+caption			{ font-size: 30px;
+				  color: navy;
+				  font-weight: bold; }
+				
+th				{ height: 50px;
+				  border: 1px solid black;
+				  border-collapse: collapse; }
+				
+td				{ height: 50px;
+				  border: 1px solid black;
+				  border-collapse: collapse; }
+				
+
+	
+	
+.wholeMessage	{ width: 99%;
+				  height: 99%;
+				  border: hidden;
+				  font-size: 18px;
+				  text-align: center; }
+				
+				
+.smallMessage	{ width: 70px;
+				  height: 40px;
+				  border: hidden;
+				  font-size: 18px;
+				  text-align: center; }
+				
+.th_name		{ width: 100px; }
+
+.equipmentValue	{ width: 70px; }
+
+.hide-right		{ border-right-style: hidden; }
+

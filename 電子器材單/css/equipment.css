@@ -1,0 +1,56 @@
+
+
+thead, tbody, tfoot	{ border: 3px solid black;
+					  border-collapse: collapse; }
+
+caption			{ font-size: 30px;
+				  color: navy;
+				  font-weight: bold; }					  
+					  
+table			{ width: 800px;
+				  position: relative;
+				  left: 10px;
+				  border: 1px solid black;
+				  border-collapse: collapse;
+				  text-align: center;
+				  table-layout: fixed;
+				  background-attachment: fixed; }
+				  
+				  
+th, td			{ height: 30px;
+				  text-align: left;
+				  position: relative;
+				  border: 1px solid black;
+				  border-collapse: collapse; }
+				  
+th p, td p		{ left: 10px;
+				}
+				  
+
+
+.checkbox		{ width: 20px;
+				  height: 20px;
+				  
+				  }
+				  
+.center			{ text-align: center;
+				  left: 0; }
+				  
+
+				  
+.button_div		{ margin: 0px auto;
+				  margin-top:20px;
+				  width: 0px; }
+				  
+				  
+.button_div input	{ width: 100px; }
+
+.equipment_number	{ background-color: gold; }
+
+.top			{ font-size: 20px;
+				  text-align: center;
+				  position: fixed;
+				  right: 30px;
+				  bottom: 0;
+				  color: navy;
+				  text-decoration: none; }
